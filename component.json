@@ -6,7 +6,8 @@
     "name": "login",
     "main": "login.js",
     "dependencies" : [
-    	"jquery-validation",
-    	"hqlcs/dialog"
+        "https://github:fis-components/jquery",
+    	"https://github:fis-components/jquery-validation",
+    	"https://github.com/hqlcs/dialog"
     ]
 }
