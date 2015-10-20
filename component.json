@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "repos": "https://github.com/hqlcs/login",
+    "protocol":"github:hqlcs/login",
+    "description": "A login",
+    "name": "login",
+    "main": "login.js",
+    "dependencies" : [
+    	"jquery-validation",
+    	"hqlcs/dialog"
+    ]
+}
