@@ -6,7 +6,7 @@
     "name": "login",
     "main": "login.js",
     "dependencies" : [
-    	"jquery-validation",
-    	"https://github.com/hqlcs/dialog"
+    	"jquery",
+    	"dialog"
     ]
 }
