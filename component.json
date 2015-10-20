@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "repos": "https://github.com/hqlcs/login",
-    "protocol":"github:hqlcs/login",
+    "protocol":"github:hqlcs/",
     "description": "A login",
     "name": "login",
     "main": "login.js",
